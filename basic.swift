@@ -1,3 +1,1 @@
-import UIKit
-var myString = "Hello, World!"
-print(myString)
+print("HackerSM9 Here")
