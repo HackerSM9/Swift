@@ -1,3 +1,6 @@
 import Swift
 
-print("HackerSM9 Here")
+func wish(user:String) {  
+    print("Welcome \(user). Have a Good day.")  
+}  
+wish(user: "HackerSM9")
